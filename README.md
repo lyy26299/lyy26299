@@ -49,10 +49,10 @@ Contributing to the systems behind LLM routing.
       <p><sub>Computer vision · Pose recognition · Voice feedback</sub></p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / AGENT EXPLORATION</sub>
-      <h3><a href="https://github.com/lyy26299/shaoyin">Shaoyin ↗</a></h3>
-      <p>围绕运动场景展开的 Agent 项目。</p>
-      <p><sub>AI agents · Motion interaction</sub></p>
+      <sub>02 / REALTIME MOTION</sub>
+      <h3><a href="https://github.com/lyy26299/motion-relay">Motion Relay ↗</a></h3>
+      <p>基于 Vision-Agents 的实时运动交互项目，结合姿态感知与 AI 语音指导。</p>
+      <p><sub>Python · Vision-Agents · Realtime interaction</sub></p>
     </td>
   </tr>
   <tr>
