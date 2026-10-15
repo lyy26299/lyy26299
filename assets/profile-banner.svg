@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none">
+  <title>lyy26299 — AI agents, computer vision, LLM infrastructure</title>
+  <desc>A midnight blue banner with a connected network of blue and teal nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#122839"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83AFFF"/>
+      <stop offset="1" stop-color="#68E0CB"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#347D91" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#347D91" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#B3D4E6" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+  <ellipse cx="980" cy="205" rx="260" ry="195" fill="url(#glow)"/>
+  <rect x="64" y="58" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="112" y="66" fill="#A8B9CD" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">LYY26299 / BUILDING &amp; EXPLORING</text>
+  <text x="64" y="151" fill="#F1F5FC" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Perception. Interaction.</text>
+  <text x="64" y="217" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">The systems behind AI.</text>
+  <text x="66" y="267" fill="#A8B9CD" font-family="Arial, Helvetica, sans-serif" font-size="18">AI agents · Computer vision · LLM infrastructure</text>
+  <path d="M64 312H1136" stroke="#D6E7F7" stroke-opacity=".12"/>
+  <text x="66" y="351" fill="#8EA4BC" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">EXPERIMENTS → PROJECTS → OPEN SOURCE</text>
+  <g stroke="#8ABED5" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M838 128L958 84L1092 134L1036 244L889 259L838 128Z"/>
+    <path d="M838 128L973 175L1092 134M958 84L973 175L1036 244M889 259L973 175"/>
+  </g>
+  <circle cx="973" cy="175" r="36" stroke="#68E0CB" stroke-opacity=".15"/>
+  <circle cx="973" cy="175" r="22" fill="#143B48" stroke="#68E0CB" stroke-opacity=".65"/>
+  <circle cx="973" cy="175" r="6" fill="#82EBD8"/>
+  <g fill="#0E2233" stroke="#94BFFF" stroke-width="2">
+    <circle cx="838" cy="128" r="7"/>
+    <circle cx="958" cy="84" r="7"/>
+    <circle cx="1092" cy="134" r="7"/>
+    <circle cx="1036" cy="244" r="7"/>
+    <circle cx="889" cy="259" r="7"/>
+  </g>
+  <circle cx="1131" cy="346" r="4" fill="#68E0CB"/>
+</svg>
