@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" role="img" aria-label="SELECTED WORK">
+<style>.sans{font-family:'Helvetica Neue',Helvetica,'Arial Nova',Arial,'Liberation Sans',sans-serif;font-weight:700}.mono{font-family:ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+<circle cx="6" cy="27" r="5" fill="#ff8a3d"/>
+<text class="sans" x="24" y="33" font-size="16" letter-spacing="5" fill="#f3ece2">SELECTED WORK</text>
+<text class="mono" x="1198" y="33" font-size="15" letter-spacing="2" text-anchor="end" fill="#f3ece2" fill-opacity=".5">01 — 03</text>
+</svg>

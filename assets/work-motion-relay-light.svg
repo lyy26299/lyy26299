@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" role="img" aria-label="Motion Relay: realtime motion interaction">
+<style>.sans{font-family:'Helvetica Neue',Helvetica,'Arial Nova',Arial,'Liberation Sans',sans-serif;font-weight:700}.serif{font-family:Didot,'Bodoni 72','Bodoni MT','Playfair Display','Sitka Banner','Sitka Display',Georgia,'Noto Serif','DejaVu Serif',serif;font-style:italic}.mono{font-family:ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+<path d="M0 .5H1200" stroke="#191512" stroke-opacity=".18"/>
+<text class="mono" x="2" y="38" font-size="16" letter-spacing="2" fill="#e2460b">02</text>
+<text class="sans" x="-2" y="114" font-size="78" letter-spacing="-2.5" fill="#191512">Motion Relay</text>
+<text class="serif" x="1128" y="84" font-size="31" text-anchor="end" fill="#191512" fill-opacity=".74">realtime motion interaction</text>
+<text class="mono" x="1128" y="114" font-size="15" letter-spacing="2" text-anchor="end" fill="#191512" fill-opacity=".5">PYTHON · VISION-AGENTS</text>
+<g transform="translate(1174 92)" fill="none"><circle r="21" stroke="#191512" stroke-opacity=".28"/>
+<path d="M-6 6 6-6M-3-6H6V3" stroke="#e2460b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

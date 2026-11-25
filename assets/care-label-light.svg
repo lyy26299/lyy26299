@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-label="Care label: lyy26299. Explore ideas. Build projects. Contribute back. 100% tokens. Burn at high temperature. Do not truncate.">
+<defs><linearGradient id="ember" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#ffe29a"/><stop offset=".3" stop-color="#ffb347"/><stop offset=".68" stop-color="#ff6a1a"/><stop offset="1" stop-color="#e0263a"/></linearGradient></defs>
+<style>.sans{font-family:'Helvetica Neue',Helvetica,'Arial Nova',Arial,'Liberation Sans',sans-serif;font-weight:700}.serif{font-family:Didot,'Bodoni 72','Bodoni MT','Playfair Display','Sitka Banner','Sitka Display',Georgia,'Noto Serif','DejaVu Serif',serif;font-style:italic}.mono{font-family:ui-monospace,'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+<rect width="560" height="320" rx="12" fill="#12100e"/>
+<rect x="13" y="13" width="534" height="294" rx="5" fill="none" stroke="#efe7dc" stroke-opacity=".5" stroke-width="1.4" stroke-dasharray="7 5"/>
+<text class="sans" x="284" y="62" font-size="20" letter-spacing="8" text-anchor="middle" fill="#efe7dc">LYY26299</text>
+<text class="serif" x="280" y="104" font-size="30" text-anchor="middle" fill="url(#ember)">Explore ideas. Build projects.</text>
+<text class="serif" x="280" y="140" font-size="30" text-anchor="middle" fill="url(#ember)">Contribute back.</text>
+<path d="M200 162H360" stroke="#efe7dc" stroke-opacity=".35"/>
+<g transform="translate(0 16)">
+<g fill="none" stroke="#efe7dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(172 194)"><path d="M-22-11-16 16H16L22-11M-22-11q5.5-6 11 0t11 0 11 0 11 0"/></g>
+<g transform="translate(244 194)"><path d="M0-18 20 16H-20ZM-18-16 18 16M18-16-18 16"/></g>
+<g transform="translate(316 194)"><rect x="-18" y="-18" width="36" height="36"/><circle r="12"/></g>
+<g transform="translate(388 194)"><path d="M-22 16-13-4H13q9 0 9 10v10ZM-7-4q2-12 13-12h9"/></g>
+</g>
+<text class="mono" x="172" y="207" font-size="12" text-anchor="middle" fill="#efe7dc">1.0</text>
+<g fill="#efe7dc"><circle cx="311" cy="194" r="2"/><circle cx="321" cy="194" r="2"/>
+<circle cx="381" cy="203" r="1.8"/><circle cx="388" cy="203" r="1.8"/><circle cx="395" cy="203" r="1.8"/></g>
+<text class="mono" x="281" y="250" font-size="14" letter-spacing="2" text-anchor="middle" fill="#efe7dc">100% TOKENS · BURN AT HIGH TEMPERATURE</text>
+<text class="mono" x="281" y="273" font-size="14" letter-spacing="2" text-anchor="middle" fill="#efe7dc" fill-opacity=".6">DO NOT TRUNCATE</text>
+</g>
+</svg>
